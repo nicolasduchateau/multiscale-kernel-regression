@@ -15,9 +15,15 @@ Links to the corresponding publications at: <br/> https://www.creatis.insa-lyon.
 
 This code is made open-access. Comments and bug reports are welcome, as well as feedback on its possible improvements.
 
-Published reports of research using this code (or a modified version) may cite the following article that describes the method in the **exact matching** case: <br/> *Bermanis A, Averbuch A, Coifman RR. Multiscale data sampling and function extension. Applied and Computational Harmonic Analysis, 2013;34(1):15-29.*
+**Published reports of research using this code (or a modified version) may cite the following article that describes the method in the *exact matching* case:**
 
-The present MATLAB implementation is the one detailed in: <br/> *Duchateau N, De Craene M, Sitges M, Caselles V. Adaptation of multiscale function extension to inexact matching: Application to the mapping of individuals to a learnt manifold. In: Proceedings of SEE International Conference on Geometric Science of Information (GSI). Springer LNCS, 2013;8085:578-86.*
+*Bermanis A, Averbuch A, Coifman RR. Multiscale data sampling and function extension. Applied and Computational Harmonic Analysis, 2013;34(1):15-29.*
+https://doi.org/10.1016/j.acha.2012.03.002
+
+**The present MATLAB implementation is the one detailed in:**
+
+*Duchateau N, De Craene M, Sitges M, Caselles V. Adaptation of multiscale function extension to inexact matching: Application to the mapping of individuals to a learnt manifold. In: Proceedings of SEE International Conference on Geometric Science of Information (GSI). Springer LNCS, 2013;8085:578-86.*
+https://doi.org/10.1007/978-3-642-40020-9_64
 
 ------------------------------------------------------------------------------------------------------------------------
 **ARCHIVE CONTENT:**
