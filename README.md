@@ -22,7 +22,7 @@ This code is made open-access. Comments and bug reports are welcome, as well as 
 *Bermanis A, Averbuch A, Coifman RR. Multiscale data sampling and function extension. Applied and Computational Harmonic Analysis, 2013;34(1):15-29.*
 https://doi.org/10.1016/j.acha.2012.03.002
 
-**- **inexact matching* case, corresponding to the present MATLAB implementation:**
+**- *inexact matching* case, corresponding to the present MATLAB implementation:**
 
 *Duchateau N, De Craene M, Sitges M, Caselles V. Adaptation of multiscale function extension to inexact matching: Application to the mapping of individuals to a learnt manifold. In: Proceedings of SEE International Conference on Geometric Science of Information (GSI). Springer LNCS, 2013;8085:578-86.*
 https://doi.org/10.1007/978-3-642-40020-9_64
