@@ -3,7 +3,6 @@
 """
 Created on Fri Apr  2 10:36:38 2021
 
-@author: zheng
 """
 
 import numpy as np
@@ -24,7 +23,7 @@ class MultiScaleKernelRidge():
         
         Reference: Adaptation of multiscale function extension to inexact matching. N. Duchateau et al. Proc. GSI, 2013
         
-        Author: Benoit Freiche (CREATIS Lyon, France), modified by Fei Zheng (CREATIS Lyon, France)
+        Author: Benoit Freiche (CREATIS Lyon, France), modified by Fei Zheng, Nicolas Duchateau (CREATIS Lyon, France)
         
         Parameters:
             gamma: smaller -> smoother
