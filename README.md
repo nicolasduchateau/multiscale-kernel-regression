@@ -3,6 +3,7 @@ Code for the Multiscale kernel regression, available under the license [CeCILL-B
 # Multiscale kernel regression - Matlab + Python
 
 Release 1.0 = MATLAB / Author: Nicolas Duchateau (CREATIS Lyon, France) / February 2018
+
 Release 2.0 = PYTHON / Authors: Benoit Freiche, Fei Zheng (CREATIS Lyon, France) / August 2023
 
 Links to the corresponding publications at: <br/> https://www.creatis.insa-lyon.fr/~duchateau/#publications
