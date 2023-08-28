@@ -1,12 +1,9 @@
 Code for the Multiscale kernel regression, available under the license [CeCILL-B](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html)
   
-# Multiscale kernel regression - Matlab
+# Multiscale kernel regression - Matlab + Python
 
-Release 1.0 = MATLAB scripts
-
-Author: Nicolas Duchateau (nicolas.duchateau@creatis.insa-lyon.fr)
-
-Date: February, 2018
+Release 1.0 = MATLAB / Author: Nicolas Duchateau (CREATIS Lyon, France) / February 2018
+Release 2.0 = PYTHON / Authors: Benoit Freiche, Fei Zheng (CREATIS Lyon, France) / August 2023
 
 Links to the corresponding publications at: <br/> https://www.creatis.insa-lyon.fr/~duchateau/#publications
 
@@ -28,10 +25,15 @@ https://doi.org/10.1016/j.acha.2012.03.002
 https://doi.org/10.1007/978-3-642-40020-9_64
 
 ------------------------------------------------------------------------------------------------------------------------
-**ARCHIVE CONTENT:**
+**ARCHIVE CONTENT [MATLAB]**
 
 **testSIN.m** = example to launch the code on a sinusoid at different frequencies (to test the regression at different scales)
 
 **interpolateMulti.m** = launching the multi-scale routine (algorithm #4 from adapted Bermanis et al. 2013)
 
 **MINEXACT_Bermanis_ACHA_2013_ALGO_03.m** = computations at a single scale (algorithm #3 adapted from Bermanis et al. 2013)
+
+------------------------------------------------------------------------------------------------------------------------
+**ARCHIVE CONTENT [PYTHON]**
+
+**regression.py** = class MultiScaleKernelRidge + example to launch the code on a sinusoid at different frequencies (to test the regression at different scales)
